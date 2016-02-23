@@ -1,0 +1,7 @@
+com\techpedia\usermanagement\service\exception\UserManagementServiceExceptionMapper.class
+com\techpedia\usermanagement\service\constant\UserManagementServiceConstant.class
+com\techpedia\usermanagement\service\exception\UserManagementServiceException.class
+com\techpedia\usermanagement\service\UserManagementRestService.class
+com\techpedia\usermanagement\service\helper\UserManagementEmailHelper.class
+com\techpedia\usermanagement\service\helper\UserManagementRestServiceHelper.class
+com\techpedia\usermanagement\service\response\UMServiceResponse.class
