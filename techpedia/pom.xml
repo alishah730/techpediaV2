@@ -138,7 +138,7 @@
 		<artifactId>jackson-all</artifactId>
 		<version>1.9.9</version>
 		<scope>system</scope>
-		<systemPath>C:\Users\455959\WIP\Supporting Jars\jackson-all-1.9.9.jar</systemPath>
+		<systemPath>C:/Users/826862/Documents/TCS INTERNAL/Techpedia_jars/jackson-all-1.9.9.jar</systemPath>
 	</dependency>
   </dependencies>
   <build>
