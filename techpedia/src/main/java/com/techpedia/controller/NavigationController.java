@@ -57,7 +57,6 @@ public class NavigationController {
 	 */
 
 	String IP = "3.235.228.22";
-	//String IP = "localhost";
 
 	/*
 	 * @PostConstruct public void initLoad() throws IOException { // IP =
